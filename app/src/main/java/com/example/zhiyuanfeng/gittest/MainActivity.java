@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void newMethod(){
         Log.d(TAG, "newMethod: "+"这是新方法");
-        Log.d(TAG, "newMethod: "+"创建rick分支");
+        Log.d(TAG, "newMethod: "+"创建Jim分支");
     }
 
 
