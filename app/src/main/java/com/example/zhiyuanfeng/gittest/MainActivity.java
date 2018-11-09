@@ -22,4 +22,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "newMethod: "+"创建rick分支");
         Log.d(TAG, "newMethod: "+"合并");
     }
+
+
 }
